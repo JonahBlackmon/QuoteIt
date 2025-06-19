@@ -38,8 +38,8 @@
 
 
 ## Contact Me
-- **https://linkedin.com/in/jonahkblackmon
-- **JonahKBlackmon@gmail.com
-- **quoteitappinformation@gmail.com
+- **https://linkedin.com/in/jonahkblackmon**
+- **JonahKBlackmon@gmail.com**
+- **quoteitappinformation@gmail.com**
 
 
