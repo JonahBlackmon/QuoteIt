@@ -20,7 +20,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 | Layer           | Technology                           |
 |------------------|---------------------------------------|
@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 Screenshots
+## Screenshots
 
 ---
 
