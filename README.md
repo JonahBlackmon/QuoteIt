@@ -1,6 +1,6 @@
 # QuoteIt - Anonymous Social Media App
 
-**QuoteIt** is a fully functional, real-time social media application built from scratch with full-stack development principles. Designed with anonymity at its core, the app enables users to share moments and thoughts from their real-world environments while protecting their identity.
+**QuoteIt** is a real-time social media app I built from the ground up with a focus on anonymity and user expression. It lets users capture and share transcriptions of their recent audio, creating a space where people can post spontaneous thoughts without revealing their identity. Every part of the app—from the UI to the backend—is custom-built, with Firebase handling real-time data and authentication behind the scenes.
 
 ---
 
