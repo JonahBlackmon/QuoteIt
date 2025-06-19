@@ -9,3 +9,4 @@ For questions, bug reports, or feature requests, please open an issue on [GitHub
 ## Available Resources
 
 - [Privacy Policy](./privacy-policy.md)
+- [Terms and Conditions](./terms-and-conditions.md)
