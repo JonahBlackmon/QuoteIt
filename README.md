@@ -16,7 +16,7 @@
   A dynamic **Explore page** and **search functionality** make it easy to discover, like, and interact with quotes shared by others—without ever revealing identity.
 
 - **Interaction Without Exposure**  
-  Users can **like** and **favorite** quotes to build collections and community vibes without the pressure of followers, comments, or profiles.
+  Users can **like** and **favorite** quotes to build collections and community.
 
 ---
 
