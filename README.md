@@ -35,8 +35,8 @@
 ## Screenshots
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/18ec7907-c678-4722-833e-c0da64698ba0" width="200"/>
-  <img src="https://github.com/user-attachments/assets/560aab9a-c576-45a8-9836-706aab347890" width="200"/>
+  <img src="https://github.com/user-attachments/assets/18ec7907-c678-4722-833e-c0da64698ba0" width="200" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/560aab9a-c576-45a8-9836-706aab347890" width="200" style="margin-right: 10px;"/>
   <img src="https://github.com/user-attachments/assets/0d7ad9a5-6ef1-42d6-b56d-a6c9d3bd4c71" width="200"/>
 </div>
 ---
