@@ -1,8 +1,8 @@
-# QuoteIt - Anonymous Aduio Based Social Media App
-
 <a href="https://apps.apple.com/app/id6747531233">
   <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="160"/>
 </a>
+
+# QuoteIt - Anonymous Aduio Based Social Media App
 
 **QuoteIt** is a real-time social media app I built from the ground up with a focus on anonymity and user expression. It lets users capture and share transcriptions of their recent audio, creating a space where people can post spontaneous thoughts without revealing their identity. Every part of the app—from the UI to the backend—is custom-built, with Firebase handling real-time data and authentication behind the scenes.
 
