@@ -34,7 +34,7 @@
 
 ## Screenshots
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/user-attachments/assets/18ec7907-c678-4722-833e-c0da64698ba0" width="200" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/560aab9a-c576-45a8-9836-706aab347890" width="200" />
