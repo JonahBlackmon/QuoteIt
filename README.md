@@ -29,7 +29,7 @@
 QuoteIt is structured as a SwiftUI frontend app that interacts with Firebase backend services to enable real-time anonymous audio quoting.
 
 - **Frontend (SwiftUI):**  
-  Handles user interface, navigation, and interaction. The UI components use 'QuoteManager' and 'UserService' to handle interactions with publishing and displaying content across   views.
+  Handles user interface, navigation, and interaction. The UI components use `QuoteManager` and `UserService` to handle interactions with publishing and displaying content across   views.
 
 - **Audio Capture (AVFoundation):**  
   `AudioManager` maintains a rolling buffer of the last 20 seconds of audio, which can be transcribed into text on demand.
