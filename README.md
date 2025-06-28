@@ -24,6 +24,23 @@
 
 ---
 
+## Architecture Overview
+
+QuoteIt is structured as a SwiftUI frontend app that interacts with Firebase backend services to enable real-time anonymous audio quoting.
+
+- **Frontend (SwiftUI):**  
+  Handles user interface, navigation, and interaction. The UI components use 'QuoteManager' and 'UserService' to handle interactions with publishing and displaying content across   views.
+
+- **Audio Capture (AVFoundation):**  
+  `AudioManager` maintains a rolling buffer of the last 20 seconds of audio, which can be transcribed into text on demand.
+
+- **Backend (Firebase):**  
+  Firebase Firestore stores quote data and user interactions (likes, favorites). Authentication uses Firebase's anonymous login system to preserve privacy.
+
+Data flows from the audio buffer through transcription, then to Firestore where quotes are stored and propagated to all users in real time.
+
+---
+
 ## Tech Stack
 
 | Layer           | Technology                           |
