@@ -1,8 +1,3 @@
----
-layout: page
-title: Privacy Policy
----
-
 **Privacy Policy**
 
 This privacy policy applies to the QuoteIt app (hereby referred to as "Application") for mobile devices that was created by JonahBlackmon (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
